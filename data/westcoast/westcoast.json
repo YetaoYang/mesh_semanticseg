@@ -1,0 +1,12 @@
+{
+  "gpu": "0,1",
+  "logdir": "log",
+  "data_path": "data/westcoast",
+  "max_epoch": 300,
+  "num_point": 4096,
+  "batch_size": 12,
+  "atlas_size": 12,
+  "features": 0,
+  "box_size_x": 30,
+  "box_size_y": 30
+}

@@ -1,0 +1,7 @@
+numpy
+tensorflow-gpu = 1.12.0
+sklearn
+pytorch3d
+open3d
+torch_geometric
+torch_cluster
